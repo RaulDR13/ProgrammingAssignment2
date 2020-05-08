@@ -1,5 +1,5 @@
+##Raul Diaz Week 3
 ## From what i understand the overall ibjective of this 2 functions is to act as an alternative to the solve function
-
 ## This function will create a matrix that can cache its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
